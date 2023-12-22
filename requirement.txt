@@ -1,0 +1,7 @@
+pip install aiml
+pip install wolframalpha
+pip install pyttx3
+pip install wikipedia
+pip install bs4
+pip install webbrowser
+pip install winreg
